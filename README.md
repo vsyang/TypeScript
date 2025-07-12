@@ -5,7 +5,7 @@ This is my TypeScript project where I created a simple drawing app with HTML5 an
 The purpose of writing this software is to learn and familiarize myself with TypeScript which is a more advanced version of JavaScript. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OUUSWe2Wm_A)
 
 # Development Environment
 
