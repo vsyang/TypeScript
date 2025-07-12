@@ -9,14 +9,15 @@ The purpose of writing this software is to learn and familiarize myself with Typ
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 To create this software, I used Visual Studio Code, and saved into my TypeScript GitHub repository. 
 
 I installed the TypeScript extension and compiled the ts file into a JavaScript file. 
 
+Testing was done on the live server before uploading to GitHub.
+
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Here are a few of my resources to help me complete this project:
 
 - [TypeScript](http://www.typescriptlang.org/playground)
 - [YouTube](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&ab_channel=NetNinja)
