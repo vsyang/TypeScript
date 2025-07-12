@@ -142,6 +142,7 @@ class DrawingApp {
         this.ctx.beginPath();
     }
 
+    //recursive function
     replayDrawing(strokes: any[], index: number) {
         if (index >= strokes.length) return;
         const stroke = strokes[index];

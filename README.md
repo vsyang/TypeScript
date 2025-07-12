@@ -29,6 +29,7 @@ I installed the TypeScript extension and compiled the ts file into a JavaScript 
 In the future, I would like to improve:
 
 - Loading the drawings correctly
+- Have the option menu and text bar pop up when user clicks the buttons
 - The style (css) portion. There was not enough time this week.
 - The bug that occasionally occurs when actually drawing. Sometimes, clicking on the mouse causes a starburst of lines instead of the line the user is drawing.
 - Adding an undo/redo feature in case the eraser takes too long
