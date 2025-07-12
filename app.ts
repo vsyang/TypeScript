@@ -91,7 +91,7 @@ class DrawingApp {
         this.addStroke(e, true);
     }
 
-
+    //have system record user adding strokes and record for replay later
     addStroke(e: MouseEvent, dragging: boolean) {
         const x = e.offsetX;
         const y = e.offsetY;
