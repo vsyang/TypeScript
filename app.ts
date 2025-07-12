@@ -73,7 +73,7 @@ class DrawingApp {
 
     //functions for actual drawing
 
-    //when mouse is clicked then held down
+    //when mouse is clicked 
     startDraw(e: MouseEvent) {
         this.drawing = true;
         this.addStroke(e, false);
@@ -98,7 +98,7 @@ class DrawingApp {
         const currentColor = this.tool === "eraser" ? "#FFFFFF" : this.color;
 
         this.ctx.strokeStyle = currentColor;
-        this.ctx.lineWidth = 2;
+        this.ctx.lineWidth = 5;
         this.ctx.lineTo(x, y);
         this.ctx.stroke();
         this.ctx.beginPath();
@@ -153,7 +153,7 @@ class DrawingApp {
         this.ctx.lineWidth = 2;
         this.ctx.lineTo(stroke.x, stroke.y);
 
-        setTimeout(() => this.replayDrawing(strokes, index + 1), 5); //recursive
+        setTimeout(() => this.replayDrawing(strokes, index + 1), 5); 
     }
 
     //function to show list of saved drawings

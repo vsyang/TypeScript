@@ -20,7 +20,8 @@ Testing was done on the live server before uploading to GitHub.
 Here are a few of my resources to help me complete this project:
 
 - [TypeScript](http://www.typescriptlang.org/playground)
-- [YouTube](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&ab_channel=NetNinja)
+- [YouTube TypeScript Tutorial](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&ab_channel=NetNinja)
+- [YouTube Canvas Tutorial](https://www.youtube.com/watch?v=EO6OkltgudE&ab_channel=ChrisCourses)
 - [Mozilla Developer HTML](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement)
 - [Mozilla Developer Canvas](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
 - [TSConfig](https://www.totaltypescript.com/tsconfig-cheat-sheet)
